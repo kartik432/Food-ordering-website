@@ -10,7 +10,9 @@ Main Page
 Menu Page
 ![khateraho website 1](https://github.com/kartik432/Food-ordering-website/assets/80540292/b4aefc59-463d-41e1-ba5f-a1eda8bba76a)
 
-Ordering page will lool like this
+The ordering page will look like this
 ![Screenshot 2023-09-01 212328](https://github.com/kartik432/Food-ordering-website/assets/80540292/344040e7-a94d-4b01-a73d-557457b4ed2b)
 
+After clicking on place order a top-up section will appear where you can fill in the required information and you can pay for your order
+![Screenshot 2023-09-01 212544](https://github.com/kartik432/Food-ordering-website/assets/80540292/d47b91a7-d249-4ba6-a65f-211daed31991)
 
