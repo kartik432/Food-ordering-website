@@ -16,3 +16,6 @@ The ordering page will look like this
 After clicking on place order a top-up section will appear where you can fill in the required information and you can pay for your order
 ![Screenshot 2023-09-01 212544](https://github.com/kartik432/Food-ordering-website/assets/80540292/d47b91a7-d249-4ba6-a65f-211daed31991)
 
+![Screenshot 2023-09-01 213039](https://github.com/kartik432/Food-ordering-website/assets/80540292/53f979ef-1d7b-42b1-8b6b-456c39b399c3)
+
+
